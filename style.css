@@ -1,0 +1,28 @@
+@import url('c:\Users\Dell\Downloads\Pacifico\Pacifico-Regular.ttf');
+
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    direction: rtl;
+}
+textarea{
+    padding: 10px;
+}
+
+body{
+    background-color: chartreuse;
+}
+
+#typeer{
+    width: 540px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    height: auto;
+    padding: 10px;
+    font-family:  'Pacifico';
+    border-radius: 5px;
+    margin: 300px auto;
+}
+
